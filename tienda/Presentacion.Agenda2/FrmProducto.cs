@@ -59,6 +59,7 @@ namespace Presentacion.Agenda2
         {
             Eliminar();
             CargarCategorias("");
+
         }
 
         private void dtgProducto_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -70,16 +71,19 @@ namespace Presentacion.Agenda2
             cc.txtDescripcion.Text = dtgProducto.CurrentRow.Cells["descripcion"].Value.ToString();
             cc.txtPrecio.Text = dtgProducto.CurrentRow.Cells["precio"].Value.ToString();
             cc.ShowDialog();
+
         }
 
         private void btnRecargar_Click(object sender, EventArgs e)
         {
             CargarCategorias("");
+
         }
 
         private void txtBuscar_TextChanged(object sender, EventArgs e)
         {
             CargarCategorias(txtBuscar.Text);
+
         }
     }
 }

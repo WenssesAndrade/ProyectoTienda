@@ -70,14 +70,12 @@ namespace LogicaNegocio.Agenda2
             try
             {
 
-
                 _usuariosAccesoDatos.ActualizarCategorias(producto);
 
             }
 
             catch (Exception ex)
             {
-
                 Console.WriteLine("Fallo la actualizacion" + ex.Message);
             }
         }

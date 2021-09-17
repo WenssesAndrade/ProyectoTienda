@@ -37,6 +37,7 @@ namespace Presentacion.Agenda2
         {
             UpdateEventArgs args = new UpdateEventArgs();
             UpdateEventHandler.Invoke(this, args);
+
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
@@ -46,6 +47,7 @@ namespace Presentacion.Agenda2
                 GuardarUsuario();
                 Agregard();
                 Close();
+
             }    
             else
             {
@@ -81,6 +83,7 @@ namespace Presentacion.Agenda2
                 Nombre = txtNombre.Text,
                 Descripcion = txtDescripcion.Text,
                 Precio = int.Parse(txtPrecio.Text)
+
             });
         }
     }
