@@ -1,0 +1,5 @@
+D:\Users\CESAR\Documents\Carpeta de evidencias ITS\trabajos del 4to semestre\Taller de Base de Datos\2do parcial\C#\Agenda2\Agenda2\bin\Debug\Agenda2.dll
+D:\Users\CESAR\Documents\Carpeta de evidencias ITS\trabajos del 4to semestre\Taller de Base de Datos\2do parcial\C#\Agenda2\Agenda2\bin\Debug\Agenda2.pdb
+D:\Users\CESAR\Documents\Carpeta de evidencias ITS\trabajos del 4to semestre\Taller de Base de Datos\2do parcial\C#\Agenda2\Agenda2\obj\Debug\Agenda2.csproj.CoreCompileInputs.cache
+D:\Users\CESAR\Documents\Carpeta de evidencias ITS\trabajos del 4to semestre\Taller de Base de Datos\2do parcial\C#\Agenda2\Agenda2\obj\Debug\Agenda2.dll
+D:\Users\CESAR\Documents\Carpeta de evidencias ITS\trabajos del 4to semestre\Taller de Base de Datos\2do parcial\C#\Agenda2\Agenda2\obj\Debug\Agenda2.pdb

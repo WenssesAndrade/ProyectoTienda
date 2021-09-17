@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manejadores", "Agenda2\Manejadores.csproj", "{26CB120C-7F08-44CF-8D3C-BBBA2AD5DE9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Agenda2\Entidades.csproj", "{26CB120C-7F08-44CF-8D3C-BBBA2AD5DE9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos.Agenda2\AccesoDatos.csproj", "{A59A22C7-8949-4942-A994-D32FE488C5E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio.Agenda2", "LogicaNegocio.Agenda2\LogicaNegocio.Agenda2.csproj", "{00ADDF73-3ECB-4CC2-A52A-E85209E0B818}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejadoresTienda", "LogicaNegocio.Agenda2\ManejadoresTienda.csproj", "{00ADDF73-3ECB-4CC2-A52A-E85209E0B818}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion.Agenda2\Presentacion.csproj", "{66994DDC-F13D-4398-8ACD-DB79F191E23F}"
 EndProject

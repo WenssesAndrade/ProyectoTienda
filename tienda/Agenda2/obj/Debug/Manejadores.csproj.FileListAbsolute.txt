@@ -1,0 +1,6 @@
+C:\Users\Wensses\source\repos\tienda\Agenda2\bin\Debug\Agenda2.dll
+C:\Users\Wensses\source\repos\tienda\Agenda2\bin\Debug\Agenda2.pdb
+C:\Users\Wensses\source\repos\tienda\Agenda2\obj\Debug\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Wensses\source\repos\tienda\Agenda2\obj\Debug\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Wensses\source\repos\tienda\Agenda2\obj\Debug\Agenda2.dll
+C:\Users\Wensses\source\repos\tienda\Agenda2\obj\Debug\Agenda2.pdb
