@@ -69,9 +69,12 @@ namespace LogicaNegocio.Agenda2
         {
             try
             {
+
+
                 _usuariosAccesoDatos.ActualizarCategorias(producto);
 
             }
+
             catch (Exception ex)
             {
 
@@ -84,7 +87,6 @@ namespace LogicaNegocio.Agenda2
             try
             {
                 _usuariosAccesoDatos.EliminarCategorias(contacto);
-
             }
             catch (Exception ex)
             {
